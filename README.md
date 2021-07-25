@@ -1,3 +1,3 @@
 # kokoa clone 2020 upadates 
 
-csss go much better1
+html is so much fun
